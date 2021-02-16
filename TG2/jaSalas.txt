@@ -1,0 +1,72 @@
+-1 -1 3 -1 -1 -1 0 3 -1 
+Está numa sala na cave.
+E repara que só pode ir para este.
+
+-1 1 -1 3 -1 -1 0 -1 1 
+Entrou numa sala da cave cheia de tralha, mas repara num objeto brilhate, é o tesouro!
+Também repara que pode subir ou ir para oeste e sul.
+
+2 -1 -1 -1 -1 -1 0 4 -1 
+Está numa sala que tem uma secretária.
+Também vê que só pode voltar por onde veio, pelo norte.
+
+1 -1 0 2 12 -1 0 -1 -1 
+Está na grande escadaria.
+Onde pode subir ou ir para este ou oeste.
+
+-1 -1 -1 6 -1 -1 1 -1 -1
+Está num quintal.
+porém não vê saída sem ser por onde entrou por oeste.
+
+-1 6 -1 7 -1 -1 1 -1 -1
+Está numaa enorme sala.
+Onde se encontra duas portas para sul e oeste.
+
+5 -1 4 -1 -1 -1 1 -1 -1
+Está numa lavandaria escura e não encontra nada.
+Onde pode ir para norte ou este.
+
+-1 8 5 -1 -1 -1 1 -1 -1
+Está numa biblioteca.
+Onde vê portas para sul e para este.
+
+7 9 -1 -1 -1 -1 1 -1 -1
+Está no átrio do castelo.
+Deparasse com 2 portas a norte, e a sul.
+
+8 -1 -1 12 -1 -1 1 0 -1
+Está na cozinha.
+Na sala pode-se ver portas a norte e a oeste.
+
+-1 -1 11 -1 -1 -1 1 -1 -1
+Está num descampado rodeado por uma floresta.
+Mas avista um castelo a este.
+
+-1 -1 12 10 -1 -1 1 -1 -1
+Está na porta do castelo.
+Ouvem-se ruídos estranhos lá dentro.
+Vês que podes entrar no castelo por este ou voltar para trás por oeste.
+
+-1 -1 9 11 17 3 1 -1 -1
+Está na grande escadaria.
+Onde pode subir ou descer ou ir para este ou oeste.
+
+-1 -1 17 -1 -1 -1 2 1 -1
+Está num quarto.
+E repara que só pode voltar por onde entrou que foi por este.
+
+16 -1 -1 -1 -1 -1 2 -1 -1
+Está num corredor no segundo andar.
+Onde repara que só pode voltar pelo norte.
+
+-1 16 -1 -1 -1 -1 2 2 -1
+Está num quarto.
+E reparas que só pode voltar por onde entrou que foi por sul.
+
+15 14 17 -1 -1 -1 2 -1 -1 
+Está num corredor, onde encontra 3 portas.
+Uma para norte, outra para sul, e outra para oeste.
+
+-1 -1 16 13 -1 12 2 -1 -1
+Está na grande escadaria.
+Onde pode descer ou ir para este ou oeste.
